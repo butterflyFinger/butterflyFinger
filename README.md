@@ -20,7 +20,7 @@ I'm a Full-Stack Mobile Developer passionate about creating impactful digital so
 
 ## 📈 Stats
 
-![Your GitHub Stats](https://github-readme-stats.vercel.app/api?username=yourusername&show_icons=true&theme=radical)
+![Your GitHub Stats](https://github-readme-stats.vercel.app/api?username=butterflyFinger&show_icons=true&theme=chartreuse-dark)
 
 ## 📫 How to Reach Me
 - **LinkedIn**: linkedin-profile-lin](https://www.linkedin.com/in/safwanhairom/
