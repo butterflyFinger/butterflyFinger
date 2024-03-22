@@ -15,7 +15,7 @@ I'm a Full-Stack Mobile Developer passionate about creating impactful digital so
 - **Databases**: Mysql, Sqlite, Firebase, LDAP(Lightweight Directory Access Protocol), 
 
 ## 🔥 Projects
-- **Project Name 1**: Short description with tech stack - [View Project]([project-link](https://github.com/butterflyFinger/react-native-bluetooth-posprinter))
+- **Project Name 1**: Short description with tech stack - [View Project]project-link](https://github.com/butterflyFinger/react-native-bluetooth-posprinter
 
 
 ## 📈 Stats
@@ -23,9 +23,8 @@ I'm a Full-Stack Mobile Developer passionate about creating impactful digital so
 ![Your GitHub Stats](https://github-readme-stats.vercel.app/api?username=yourusername&show_icons=true&theme=radical)
 
 ## 📫 How to Reach Me
-- **LinkedIn**: [Your LinkedIn]([linkedin-profile-lin](https://www.linkedin.com/in/safwanhairom/)k)
-- **Twitter**: [Your Twitter](twitter-profile-link)
-- **Email**: [your.email@example.com](safwanhairom@gmail.com)
+- **LinkedIn**: linkedin-profile-lin](https://www.linkedin.com/in/safwanhairom/
+- **Email**: safwanhairom@gmail.com
 
 ## 💡 Fun Fact
 I'm on a journey to achieve financial freedom and love discussing tech and money-making ideas. Let's connect!
