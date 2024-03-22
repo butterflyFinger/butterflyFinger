@@ -15,7 +15,7 @@ I'm a Full-Stack Mobile Developer passionate about creating impactful digital so
 - **Databases**: Mysql, Sqlite, Firebase, LDAP(Lightweight Directory Access Protocol), 
 
 ## 🔥 Projects
-- **Project Name 1**: Short description with tech stack - [View Project]project-link](https://github.com/butterflyFinger/react-native-bluetooth-posprinter
+- **RN Expo Integrate Pos Printer**: Short description with tech stack - [View Project]project-link](https://github.com/butterflyFinger/react-native-bluetooth-posprinter
 
 
 ## 📈 Stats
