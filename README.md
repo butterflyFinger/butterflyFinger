@@ -1,26 +1,25 @@
-# Hello, I'm Your Developer! 👋
+# Hello, I'm Muhammad Safwan Hairom! 👋
 
 ## 🚀 About Me
-I'm a Full-Stack Mobile Developer passionate about creating impactful digital solutions and exploring new technologies. With a knack for both front-end and back-end development, I aim to build seamless, user-friendly applications.
+I'm a UI/UX Designer passionate about crafting impactful digital solutions and exploring new design technologies. With a strong foundation in full-stack mobile development and a keen eye for both aesthetic and functional design, I aim to create intuitive and user-friendly applications.
 
 🎓 **Education**: Bachelor Software Engineering, Malaysian Institute Information Technology
 
 💼 **Current Role**: Full-Stack Mobile Developer at Nk System 
 
-🎯 **Interests**: Mobile development, Front-End, UiUx Design, financial freedom, side hustles, and tech innovations.
+🎯 **Interests**: Mobile development, Front-End, UiUx Design, side hustles, and tech innovations.
 
 ## 🛠 Skills
 - **Languages**: JavaScript (React Native Expo), Dart (Flutter), 
-- **Tools & Technologies**: Docker, Git, Katalon Studio, Linux Os
+- **Tools & Technologies**: Docker, Git, Katalon Studio, Linux Os, Figam, Adobe Xd
 - **Databases**: Mysql, Sqlite, Firebase, LDAP(Lightweight Directory Access Protocol), 
 
-## 🔥 Projects
-- **RN Expo Integrate Pos Printer**: Short description with tech stack - [View Project]project-link](https://github.com/butterflyFinger/react-native-bluetooth-posprinter
+## 🔥 Sample Projects
+- **RN Expo Integrate Pos Printer**: Expo react native with esc pos printer plugin - [View Project]project-link](https://github.com/butterflyFinger/react-native-bluetooth-posprinter
 
+## 🔥 UIUX Projects
+- **Online Sport Collection**: Design Online Shoes Collection, Figma - [View Project]project-link]([https://github.com/butterflyFinger/react-native-bluetooth-posprinter](https://www.figma.com/proto/CiihdLZAXhwhi4pwMHgsGv/Sports-App?page-id=0%3A1&type=design&node-id=1-4&viewport=174%2C424%2C0.54&t=PFukeGk5D3VRahj2-1&scaling=scale-down&starting-point-node-id=1%3A4&mode=design)
 
-## 📈 Stats
-
-![Your GitHub Stats](https://github-readme-stats.vercel.app/api?username=butterflyFinger&show_icons=true&theme=chartreuse-dark)
 
 ## 📫 How to Reach Me
 - **LinkedIn**: linkedin-profile-lin](https://www.linkedin.com/in/safwanhairom/
