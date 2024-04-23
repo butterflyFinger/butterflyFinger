@@ -18,7 +18,7 @@ I'm a UI/UX Designer passionate about crafting impactful digital solutions and e
 - **RN Expo Integrate Pos Printer**: Expo react native with esc pos printer plugin - [View Project]project-link](https://github.com/butterflyFinger/react-native-bluetooth-posprinter
 
 ## 🔥 UIUX Projects
-- **Online Sport Collection**: Design Online Shoes Collection, Figma - [View Project]project-link]([https://github.com/butterflyFinger/react-native-bluetooth-posprinter](https://www.figma.com/proto/CiihdLZAXhwhi4pwMHgsGv/Sports-App?page-id=0%3A1&type=design&node-id=1-4&viewport=174%2C424%2C0.54&t=PFukeGk5D3VRahj2-1&scaling=scale-down&starting-point-node-id=1%3A4&mode=design)
+- **Online Sport Collection**: Design Online Shoes Collection, Figma - (https://www.figma.com/proto/CiihdLZAXhwhi4pwMHgsGv/Sports-App?page-id=0%3A1&type=design&node-id=1-4&viewport=174%2C424%2C0.54&t=PFukeGk5D3VRahj2-1&scaling=scale-down&starting-point-node-id=1%3A4&mode=design)
 
 
 ## 📫 How to Reach Me
