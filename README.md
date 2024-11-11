@@ -1,7 +1,7 @@
-# Hello, I'm Muhammad Safwan Hairom! 👋
+# Hello, I'm Musaf! 👋
 
 ## 🚀 About Me
-I'm a UI/UX Designer passionate about crafting impactful digital solutions and exploring new design technologies. With a strong foundation in full-stack mobile development and a keen eye for both aesthetic and functional design, I aim to create intuitive and user-friendly applications.
+I'm Musaf, a Full-Stack Mobile Developer and aspiring Automation Tester with 4 years of experience in building intuitive and reliable mobile applications. I am passionate about coding and ensuring top-quality software through automation.s.
 
 🎓 **Education**: Bachelor Software Engineering, Malaysian Institute Information Technology
 
@@ -12,7 +12,7 @@ I'm a UI/UX Designer passionate about crafting impactful digital solutions and e
 ## 🛠 Skills
 - **Languages**: JavaScript (React Native Expo), Dart (Flutter), 
 - **Tools & Technologies**: Docker, Git, Katalon Studio, Linux Os, Figam, Adobe Xd
-- **Databases**: Mysql, Sqlite, Firebase, LDAP(Lightweight Directory Access Protocol), 
+- **Databases**: Mysql, Sqlite, Firebase, LDAP(Lightweight Directory Access Protocol),
 
 ## 🔥 Sample Projects
 - **RN Expo Integrate Pos Printer**: Expo react native with esc pos printer plugin - (https://github.com/butterflyFinger/react-native-bluetooth-posprinter
@@ -30,6 +30,13 @@ I'm a UI/UX Designer passionate about crafting impactful digital solutions and e
 I'm on a journey to achieve financial freedom and love discussing tech and money-making ideas. Let's connect!
 
 ---
+
+![React Native](https://img.shields.io/badge/React_Native-61DAFB?style=for-the-badge&logo=react&logoColor=white)
+![SQLite](https://img.shields.io/badge/SQLite-003B57?style=for-the-badge&logo=sqlite&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
+![GitHub Actions](https://img.shields.io/badge/GitHub_Actions-2088FF?style=for-the-badge&logo=github-actions&logoColor=white)
+![Selenium](https://img.shields.io/badge/Selenium-43B02A?style=for-the-badge&logo=selenium&logoColor=white)
+
 
 Feel free to check out my repositories and don't hesitate to reach out if you're interested in a collaboration or just want to chat about technology and finance!
 
